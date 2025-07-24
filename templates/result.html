@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Agent Response</title>
+</head>
+<body>
+    <h1>Agent Response</h1>
+    <p><strong>Agent:</strong> {{ agent }}</p>
+
+    {% if summary %}
+        <p><strong>Summary:</strong> {{ summary }}</p>
+    
+    {% elif data %}
+        <h2>Stock Data</h2>
+        <ul>
+            <li><strong>Stock:</strong> {{ data.stock }}</li>
+            <li><strong>Price:</strong> {{ data.price }}</li>
+            <li><strong>User:</strong> {{ data.user }}</li>
+        </ul>
+
+    {% elif response %}
+        {% if agent == "rag_agent" %}
+            <p><strong>Retrieved Answer:</strong> {{ response }}</p>
+        {% elif agent == "ml_agent" %}
+            <p><strong>Neural Summary:</strong> {{ response }}</p>
+        {% elif agent == "summarize_agent" %}
+            <p><strong>Text Summary:</strong> {{ response }}</p>
+        {% elif agent == "data_agent" %}
+            <p><strong>Data Response:</strong> {{ response }}</p>
+        {% elif agent == "live_agent" %}
+            <p><strong>Live Agent Reply:</strong> {{ response }}</p>
+        {% else %}
+            <p><strong>Response:</strong> {{ response }}</p>
+        {% endif %}
+    {% endif %}
+
+    <hr>
+    <form action="/" method="get">
+        <button type="submit">Back to Home</button>
+    </form>
+</body>
+</html>

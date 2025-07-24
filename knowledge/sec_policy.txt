@@ -1,0 +1,51 @@
+SEC Rule 206(4)-7: Compliance Programs for Investment Advisers
+Registered investment advisers must adopt and implement written policies and procedures reasonably designed to prevent violations of the Investment Advisers Act of 1940. These procedures should address:
+- Portfolio management practices, including fair allocation of investment opportunities and consistency with client objectives.
+- Trading protocols, such as best execution obligations and soft dollar arrangements.
+- Safeguarding client assets from misuse or conversion.
+- Accurate disclosures to clients and regulators, including marketing materials and account statements.
+- Personal securities transactions and insider trading safeguards.
+- Privacy protections for client data and records.
+- Business continuity planning and disaster recovery procedures.
+Advisers must review these policies annually and designate a Chief Compliance Officer responsible for their administration. Failure to maintain adequate compliance programs may result in enforcement actions, fines, or revocation of registration.
+
+SEC Rule 10b5-1: Insider Trading Safeguards and Disclosure Requirements
+Rule 10b5-1 provides an affirmative defense against insider trading allegations when trades are made under a pre-established plan. To qualify, the plan must be adopted when the trader is not aware of material nonpublic information (MNPI), and must specify the amount, price, and timing of trades.
+Recent amendments to Rule 10b5-1 include:
+- Mandatory cooling-off periods:
+- Officers and directors must wait 90–120 days after plan adoption before trading.
+- Other individuals must wait 30 days.
+- Certification requirement:
+- Executives must certify they are not aware of MNPI and are adopting the plan in good faith.
+- Restrictions on overlapping plans:
+- Individuals may not maintain multiple concurrent 10b5-1 plans for the same securities.
+- Limitations on single-trade plans:
+- Only one single-trade plan is permitted per 12-month period.
+- Enhanced disclosure obligations:
+- Public companies must disclose insider trading policies in annual reports.
+- Quarterly disclosures are required for plan adoptions, modifications, or terminations.
+These changes aim to prevent abuse of preset trading arrangements and improve transparency for investors. Violations may result in enforcement actions under Section 10(b) and Rule 10b-5 of the Exchange Act.
+
+SEC Proxy Voting Responsibilities for Investment Advisers
+Under Rule 206(4)-6 of the Investment Advisers Act, registered investment advisers who assume voting authority over client securities must adopt written policies and procedures designed to ensure votes are cast in the best interest of clients. Key obligations include:
+- Establishing clear voting guidelines aligned with client objectives.
+- Conducting reasonable investigations to avoid reliance on materially inaccurate or incomplete information.
+- Disclosing proxy voting policies in Form ADV and relevant fund filings.
+- Evaluating proxy advisory firms for conflicts of interest and methodological soundness.
+- Ensuring votes are not automatically cast without considering new issuer disclosures or updated materials.
+The SEC clarified that proxy voting advice from third-party firms may constitute a “solicitation” under Exchange Act Rule 14a-1(l), and is subject to antifraud provisions under Rule 14a-9. Advisers must ensure that reliance on such advice does not violate fiduciary duties or mislead clients.
+
+SEC Marketing Rule (Rule 206(4)-1): Advertising and Solicitation Standards
+Effective November 2022, the SEC’s updated Marketing Rule governs how investment advisers promote their services. It replaces prior advertising and cash solicitation rules with a unified framework. Key provisions include:
+- Definition of Advertisement: Includes any communication offering advisory services to more than one person, or any compensated testimonial or endorsement.
+- General Prohibitions: Ads must not be misleading, omit material facts, or present performance in a deceptive manner.
+- Performance Presentation Requirements:
+- Must show net performance alongside gross.
+- Must include 1-, 5-, and 10-year returns (if available).
+- Extracted performance must be accompanied by total portfolio results.
+- Hypothetical Performance: Allowed with conditions — must be relevant to the audience and accompanied by disclosures.
+- Testimonials and Endorsements:
+- Permitted if disclosures are clear and prominent.
+- Written agreements required for compensated promoters (unless de minimis).
+- Promoters must not be “bad actors” under SEC definitions.
+Advisers must maintain records of all advertisements and related disclosures, and update Form ADV to reflect marketing practices.

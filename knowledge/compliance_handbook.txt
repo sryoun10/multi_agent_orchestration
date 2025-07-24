@@ -1,0 +1,1699 @@
+WorkSource System Complaint Handbook – 
+Attachment A 
+July 29, 2013 
+Southwest Washington Workforce Development Council 
+805 Broadway, Suite 412 
+Vancouver, WA 98660 
+Amy Gimlin 
+Data and Compliance Manager 
+agimlin@swwdc.org  
+(360) 567-1059 
+Local Equal Opportunity Officer 
+Tim Foley 
+tfoley@swwdc.org 
+(360) 567-1076 
+Table of Contents 
+ 
+Introduction: .......................................................................................................................................... 4 
+References: ........................................................................................................................................... 4 
+Concerns............................................................................................................................................... 5 
+Who May File a Complaint? .................................................................................................................. 5 
+Types of Complaints: ............................................................................................................................ 5 
+1. Wagner-Peyser Complaint Procedures .................................................................................... 6 
+1.1 Purpose ................................................................................................................................ 6 
+1.2 Wagner-Peyser Specific Definitions ..................................................................................... 6 
+1.3 Availability of Complaint Contact(s) ...................................................................................... 7 
+1.4 Complaints Received in Person ............................................................................................ 7 
+1.5 Complaints Received in Writing ............................................................................................ 7 
+1.6 Procedures for Handling ES Complaints .............................................................................. 8 
+1.7 Procedures for Handling Non-ES Complaints ....................................................................... 9 
+1.8 Procedures for Transferring Out of Area ES Complaints ...................................................... 9 
+1.9 Apparent Violations .............................................................................................................. 9 
+1.10 H-2A & H-2B related Complaints ....................................................................................... 9 
+1.11 MSFW Complaints ............................................................................................................ 9 
+1.12 Requests for Additional Information ................................................................................ 10 
+1.13 Confidentiality .................................................................................................................. 10 
+1.14 Record Keeping ............................................................................................................... 10 
+1.15 Complaint Logs ............................................................................................................... 10 
+1.16 Elevating Complaints to the State ................................................................................... 11 
+1.17 Discontinuation of Service to Employers ......................................................................... 11 
+1.18 Complaint Posters ........................................................................................................... 11 
+1.19 References ...................................................................................................................... 11 
+2. Trade Adjustment Act (TAA) Complaint & Eligibility Appeal Procedures ............................... 12 
+2.1 Purpose .............................................................................................................................. 12 
+2.2 TAA Specific Complaint Definitions .................................................................................... 12 
+2.3 Complaints Received in Person .......................................................................................... 12 
+2.4 Complaints Received in Writing .......................................................................................... 12 
+2.5 Denial of Service ................................................................................................................ 12 
+2.6 Denial of Service Procedures ............................................................................................. 13 
+2.7 Denial of Service Appeal Procedures ................................................................................. 13 
+ 
+ 
+2.8 Procedures for Handling Customer Service Related TAA Complaints ............................... 14 
+2.9 Requests for Additional Information .................................................................................... 14 
+2.10 Confidentiality .................................................................................................................. 14 
+2.11 Record Keeping ............................................................................................................... 14 
+2.12 Complaint Logs ............................................................................................................... 15 
+2.13 Elevating Customer Service Related Complaints to the State ......................................... 15 
+2.14 References ...................................................................................................................... 15 
+3. WIA Complaint Procedures .................................................................................................... 16 
+3.1 Purpose .............................................................................................................................. 16 
+3.2 WIA Specific Complaint Definitions .................................................................................... 16 
+3.3 Providing Information about WIA Complaint Procedures .................................................... 16 
+3.4 Complaint Resolution Timeline ........................................................................................... 16 
+3.5 Local Hearings .................................................................................................................... 17 
+3.6 State Level Appeal ............................................................................................................. 17 
+3.7 Confidentiality ..................................................................................................................... 18 
+3.8 Record Keeping .................................................................................................................. 18 
+3.9 Complaint Logs ................................................................................................................... 18 
+3.10 Binding Arbitration ........................................................................................................... 18 
+3.11 References ...................................................................................................................... 18 
+4. Discrimination Complaint Procedures .................................................................................... 19 
+4.1 Purpose .............................................................................................................................. 19 
+4.2 Discrimination Complaint Definitions .................................................................................. 19 
+4.3 Filing a Discrimination Complaint ....................................................................................... 20 
+4.4 Distinguishing Between Program and Discrimination Complaints ...................................... 21 
+4.5 Receiving a Discrimination Complaint ................................................................................ 22 
+4.6 Initial Letter, Contents and Timeframes for Processing a Discrimination Complaint ........... 22 
+4.7 Alternative Dispute Resolution (ADR)/Mediation Process .................................................. 22 
+4.8 Notice of Final Action .......................................................................................................... 23 
+4.9 Corrective Action ................................................................................................................ 23 
+4.10 Confidentiality .................................................................................................................. 24 
+4.11 Record Keeping ............................................................................................................... 24 
+4.12 References ...................................................................................................................... 24 
+5. Tools ...................................................................................................................................... 25 
+6. Concern and Complaint Processing Questions & Answers (Q&A) ........................................ 34 
+ 
+ 
+ 
+Introduction: 
+The WorkSource System Complaint Handbook provides procedural guidance to local partners for 
+processing Workforce Investment Act (WIA) Title–I B, Wagner-Peyser, Trade Adjustment Act (TAA) and 
+Discrimination complaints in compliance with federal regulations.  Policy 1012 Revision 1, which introduces 
+this handbook, was established to accomplish three primary objectives: 
+• To clarify the oversight role of Workforce Development Councils (WDCs).   
+• To outline minimum expectations for coordination among partners. 
+• To encourage prompt resolution of all customer concerns. 
+The handbook builds on this framework by establishing the following: 
+• Clarifying roles and responsibilities of partners and programs regarding complaint processing.   
+• Providing approved procedures containing minimum federal requirements for processing 
+complaints. 
+• Providing tools (e.g., complaint log and complaint form) to assist with the implementation of 
+procedures that comply with minimum requirements.   
+The complaint procedures and tools in this handbook are required by all SWWDC Workforce Investment 
+Act service providers and WorkSource partner organizations.  These represent the minimum federal 
+requirements and should not be modified to remove minimum federal requirements. 
+References: 
+• WIA Section 188  
+• 20 CFR 651, 653, and 658 
+• 29 CFR, Part 37 
+• Title IX of Education Amendments of 1972 
+• President’s Executive Order 11246 
+• Revised Code of Washington (RCW) 49.60 
+• Equal Opportunity and Nondiscrimination: WIA Policy Number 3445, Revision 1 
+• Discrimination Complaint Processing: Employment Security Department (ESD) Policy and Procedure 
+Number 0013 
+• Equal Opportunity/Affirmative Action: ESD Policy and Procedure Number 0021 
+• Washington State Methods of Administration 
+• Title VI & VII of the Civil Rights Act of 1964, as amended 
+• Section 504 of Rehabilitation Act of 1973, as amended 
+• The Age Discrimination Act of 1975, as amended 
+• Titles II, of the Americans with Disabilities Act of 1990, as amended 
+• Equal Pay Act of 1963 
+Page 4 of 37 
+Concerns 
+These are written or verbal expressions of dissatisfaction rather than alleged violations of program or 
+discrimination regulations noted in this handbook.  Concerns do not require the same formal process as a 
+complaint (i.e., logging, tracking, etc.), but do require professionalism on the part of the WorkSource 
+System Staff.  Concerns should be resolved at the lowest level possible before escalating to the level of a 
+complaint. During this period, the Complaint Coordinator and/or the Local Equal Opportunity Officer is 
+available to advise and assist all concerned parties. At any time the complainant has the right to file a 
+written formal complaint and will be advised of their rights. 
+Who May File a Complaint? 
+Complaints may be filed by individuals, organizations, employers, associations or other entities potentially 
+affected by an alleged program violation or by individuals alleging discrimination connected to programs or 
+services at a WorkSource center or affiliate site.  Concerns may be filed by customers, service providers, 
+staff of grant recipients, applicants, labor unions, community-based organizations, local elected officials or 
+other interested parties.   
+Types of Complaints:  
+This handbook describes two types of complaints – programmatic and discrimination – each of which 
+follows its own procedures in alignment with federal regulations.   
+• Programmatic complaints are complaints which allege a violation of a law, regulations or policy 
+connected to Wagner-Peyser, WIA, or TAA programs but do not allege discrimination.  All 
+programmatic complaints must be filed within one year of the alleged date of incident.   
+• Discrimination complaints are complaints alleging a violation of law(s) that prohibit discrimination in 
+federally assisted programs on the basis of race, color, religion, sex, age, national origin, disability, 
+political affiliation or belief and (for beneficiaries only) citizenship/status as a lawfully admitted immigrant 
+authorized to work in the United States.  Washington State law also prohibits discrimination in public 
+accommodation based on marital status, sexual orientation or gender identity, honorably discharged 
+veteran or military status, and the use of a trained guide dog or service animal by a person with a 
+disability.  Discrimination complaints must be filed within 180 days of the date of the alleged 
+discrimination. 
+While this handbook introduces separate processes to correspond to the different types of complaints 
+described above, all partners are expected to collaborate and be responsive to the needs of all 
+WorkSource customers.  Collaboration is essential when a complaint presents allegations that cross 
+jurisdictional boundaries, including allegations that involve more than one program or allegations against a 
+program that also alleges discrimination. 
+Page 5 of 37 
+1. Wagner-Peyser Complaint Procedures 
+1.1 
+Purpose 
+To establish minimum requirements for accepting, fact finding, resolving and referring customer complaints 
+and apparent violations connected to Wagner-Peyser funded services or partners.   
+1.2 
+Wagner-Peyser Specific Definitions 
+Apparent Violation – a violation of Wagner-Peyser regulations or employment-related laws by an 
+employer, where an employee or ESD representative observes, has reason to believe, or is in receipt of 
+information regarding a suspected violation. 
+Complainant – an individual, organization, employer, association, or other entity filing a complaint.   
+Complaint (Wagner-Peyser) – the submission of a written and signed allegation that Wagner-Peyser (Job 
+Service) funded programs/partners violated Wagner-Peyser regulations, and/or an allegation that an 
+employer violated federal, state or local employment related laws.  At a minimum, complaints must contain 
+the following information: 
+• Complainant’s name; 
+• Mailing address, or other means by which the complainant may be contacted; 
+• Identification of individual(s) or organizations(s) responsible for the alleged issue; 
+• A description of the complainant’s allegations, which must include enough details to determine the 
+jurisdiction of the complaint and the date(s) the alleged incident(s) took place; and 
+• The complainant’s signature and signature date.  The signature of his/her authorized representative is 
+also acceptable. 
+Complaint Contact – local staff assigned to process complaints according to procedural requirements 
+contained in this section.   
+Employment Service (ES) Related Complaint – an ES complaint may be an agency related complaint or 
+an employer related complaint.   
+• An agency related complaint, is where a complainant alleges that ESD or a WorkSource partner, 
+through actions or omissions, violated Wagner-Peyser regulations.  
+• An employer related complaint, is where a complainant, referred by the WorkSource office on a WA job 
+order in the past 12 months, either: 
+o Alleges the employer violated the terms and conditions of the job order; or 
+o Alleges the employer violated an employment related law such as wages, working conditions, child 
+labor laws, sanitation, or housing standards, etc.). 
+Non-Employment Service (Non-ES) Related Complaint – a complaint filed by an individual that was not 
+referred on a WA job order within the last 12 months that alleges an employer or an agency violated 
+federal or state employment related laws. 
+Enforcement Agency – a body sanctioned by local, state, or national government to enforce laws.  
+Examples may include the Washington State Department of Labor & Industries (L&I), DOL’s Wage & Hour 
+Division (WHD), the Washington State Human Rights Commission, etc.   
+Page 6 of 37 
+H-2A Program – the federal program that allows agricultural employers who anticipate a labor shortage to 
+apply for permission to hire foreign workers temporarily.   
+H-2B Program – the federal program that allows non-agricultural employers who anticipate a labor 
+shortage to apply for permission to hire foreign workers temporarily.   
+Migrant Seasonal Farmworker (MSFW) – a migrant farmworker, a seasonal farmworker or a migrant food 
+processing worker.   
+Resolution – A complaint is considered resolved when: 
+• The complainant indicates satisfaction with resolution. 
+• The complainant chooses not to elevate a complaint to the next level. 
+• The complainant fails to respond to a written request for information within time frames. 
+• The complainant exhausts the final level of review. 
+• The agency with jurisdiction makes a final determination on a referred complaint. 
+Respondent – the individual or entity that is alleged to have committed the violation described in the 
+complaint. 
+1.3 
+Availability of Complaint Contact(s) 
+A locally designated complaint contact shall be available to receive ES and Non-ES complaints, in person, 
+at all WorkSource centers and affiliates where Wagner-Peyser funded staff are located.   
+1.4 
+Complaints Received in Person 
+If an individual elects to file a complaint, the following minimum steps shall be followed: 
+• Offer to assist the complainant in completing a complaint form.  It is recommended, but not required, 
+that complainants use the WorkSource Complaint Form or the federally approved Wagner-Peyser 
+complaint form known as the ETA 8429.  If the complainant represents several other complainants, all 
+complainants must be named.  Only one signature is required from a complainant listed on the form.  
+An additional sheet may be attached to the form if more space is needed.  The additional sheet must be 
+signed and dated by the complainant. 
+• Obtain all necessary information to resolve or refer the complaint. 
+• If a complaint is filed by a migrant farm worker, ask the complainant to contact WorkSource before 
+leaving the area in order to obtain change of address information.  The complainant shall also be 
+advised to communication with the complaint contact during the fact-finding. 
+• Provide the complainant and any other complainants named on the form with a copy of the completed 
+complaint form. 
+• Process as an ES related complaint or Non ES related complaint, depending on jurisdiction (see 
+definitions).   
+1.5 
+Complaints Received in Writing 
+• When a complaint in any form (e.g., a letter) is received that is signed by the complainant and includes 
+sufficient information to initiate processing, the document must be treated as if it were a properly 
+Page 7 of 37 
+completed Complaint Form filed in person by the complainant and processed as an employment 
+service related or as a non-employment services related complaint.   
+• If the complainant has not provided sufficient information, additional information shall be requested 
+following procedures noted in section 1.12.   
+1.6 
+Procedures for Handling ES Complaints  
+1.6.1 Agency Related Complaints  
+The complaint contact shall, at a minimum:  
+• Conduct fact-finding. 
+• Attempt to resolve the agency related complaint within 15 working days of receiving the complaint. 
+• Document all actions taken. 
+• If unable to resolve the complaint within 15 working days, the complaint contact shall elevate the 
+complaint to the state using information noted in section 1.16.  The referral shall be made in writing and 
+contain a summary of the local determination made.  The complaint contact shall inform the 
+complainant and the respondent, in writing, of the referral action made to the state. 
+• The state may attempt to resolve the complaint or, if necessary, conduct additional fact finding.  If a 
+resolution has not been achieve within 30 working days from the date of referral, the state shall issue a 
+written determination via certified mail.   
+• The complainant may request a hearing if he/she remains unsatisfied after a determination has been 
+issued by the state.  Hearings will be scheduled in accordance with 20 CFR 658.416(e). 
+1.6.2 Employer Related Complaints 
+The following sections describe minimum procedures to be followed for employer related complaints where 
+the complainant was referred by a WorkSource office on a WA job order in the past 12 months.  Different 
+steps shall be followed depending on whether or not the complaint is employment law related.  Those 
+minimum requirements are described in the following sections.   
+Alleged Violation of Employment Law  
+• The complaint contact shall make a written referral to the appropriate agency along with a copy of the 
+complaint form and all other related documentation.   
+• The complaint contact shall notify the complainant in writing of the referral. 
+• Complaint contacts shall conduct quarterly follow-ups with the agency to which the complaint was 
+referred to and keep the complainant informed.  If the agency makes a final determination that the 
+employer violated an employment related law, the final determination of the agency shall be referred to 
+the state using the contact information noted in section 1.16. 
+• If the employer is found to have violated terms and conditions of a job order or is found to have violated 
+employment law, ESD shall initiate discontinuation of services procedures consistent with 20 CFR 658 
+Subpart F. 
+Not Employment Law Related 
+• Conduct fact-finding. 
+• Attempt to resolve the complaint within 15 working days of receiving the complaint. 
+• Document all actions taken. 
+• If unable to resolve the complaint within 15 working days, the complaint contact shall elevate the 
+complaint to the state using the contact information noted in section 1.16.  The complaint contact shall 
+Page 8 of 37 
+inform the complainant and the respondent, in writing, of the local determination made and of referral 
+action made to the state.   
+• The complainant may request a hearing if he/she remains unsatisfied after a determination has been 
+issued by the state.  Hearings will be scheduled in accordance with 20 CFR 658.416(e). 
+1.7 
+Procedures for Handling Non-ES Complaints 
+• For all Non-ES complaints alleging an employment law violation made against an employer, the 
+complaint contact shall assist the individual by referring the complaint to the appropriate enforcement 
+agency in writing.   
+• All non-ES complaints referred to an enforcement agency shall be logged. 
+• No follow-up is required on referrals made to an enforcement agency on non-ES related complaints. 
+1.8 
+Procedures for Transferring Out of Area ES Complaints 
+• ES complaints presenting allegations that occurred in another part of the state shall be referred to the 
+local ESD administrator where the alleged violation occurred.   
+• If a WorkSource center or affiliate receives a complaint against more than one site, with an alleged 
+agency-wide violation, the complaint may be initially processed at the state level.  Such complaints shall 
+be forwarded to the state for further consideration using the information noted in section 1.16. 
+• If a WorkSource center or affiliate receives an ES complaint presenting allegations that occurred in 
+another state, the complaint must be taken in writing and submitted to the state using the information 
+noted in section 1.16 for appropriate referral and processing. 
+1.9 
+Apparent Violations 
+• All potential apparent violations must be reported to a local complaint contact. 
+• If there is sufficient information to suggest that a violation of Wagner-Peyser regulations or employment 
+law occurred, the relevant complaint procedures (i.e., ES or Non-ES) shall be followed. 
+• If there is sufficient information to suggest that a violation of Wagner-Peyser regulations or employment 
+law occurred, the apparent violation shall also be logged.   
+1.10 H-2A & H-2B related Complaints 
+• All H-2A and H-2B related complaints, whether received from workers referred through WorkSource or 
+otherwise, are considered ES related complaints.   
+• If a complainant alleges that the ESD or its personnel, through actions or omissions, violated H-2A and 
+H-2B Regulations, the complaint shall be processed as an ES related complaint against the agency. 
+• If a complainant files a complaint against an H-2A or H-2B employer, alleging the employer did not 
+comply with recruitment requirements or contractual terms, the complaint shall be processed as an ES 
+related complaint against the employer. 
+1.11 MSFW Complaints 
+All MSFW complaints and apparent violations shall be handled according to the type of allegation and 
+situation set forth in previous sections except for the following exceptions noted:   
+• MSFW complaints and apparent violations made against ESD, as described in section 1.6.1 and 
+section 1.6.2 (not employment law related only), shall be resolved within five (5) working days. 
+Page 9 of 37 
+• Monthly follow-up, rather than quarterly follow-up, must be conducted on all MSFW ES related 
+complaints referred to an enforcement agency, as described in section 1.6.2 (alleged violation of 
+employment law only). 
+• MSFWs shall be given up to 40 working days from the date of receipt to respond to written requests for 
+additional information, as described in section 1.12. 
+1.12 Requests for Additional Information 
+If a complaint contact is unable to speak to a complainant for the purposes of obtaining additional 
+information needed to resolve a complaint, a written request for additional information shall be sent via 
+certified mail or through some other form of communication where receipt can be verified.  All non-MSFW 
+complainants are allowed 20 working days from the date of receipt to respond to a written request for 
+additional information.  If a complainant does not respond, the complaint shall be considered closed.   
+1.13 Confidentiality 
+The identity of a complainant(s) or any person who furnishes information related to, or who has assisted in 
+an investigation of a complaint shall be kept confidential to the maximum extent possible consistent with 
+applicable law and a fair determination of the complaint.  The identity of a complainant may only be 
+released upon written consent of the individual(s) furnishing information regarding a complaint or apparent 
+violation.   
+1.14 Record Keeping 
+All records and correspondence related to complaints shall be maintained separately from any other 
+records by the complaint contact.  All records regarding ES and non-ES complaints and actions taken must 
+be maintained for a period of not less than three (3) years from the final date of resolution of the complaint 
+in alignment with 29 CFR 97.42. 
+• At a minimum, complaint files shall include:  
+o An original of completed complaint form(s); 
+o Originals of all correspondence received/transmitted; 
+o Copies of e-mail correspondence if any; 
+o Copies of written or typed notes; 
+o Miscellaneous items relevant to the allegations such as copies of check stubs, work agreements, 
+etc. 
+o Complaints and apparent violations shall be kept in an inactive file for at least three years after the 
+resolution date.   
+1.15 Complaint Logs 
+All WorkSource centers and affiliates shall maintain a system for logging complaints.  A complaint log is 
+attached and meets the requirements for all program and EO complaints.  At minimum, the log must 
+contain: 
+• The name of the complainant; 
+• The name of the respondent (employer or state agency); 
+• The date the complaint is filed; 
+• Whether the complaint is by or on behalf of an MSFW; 
+• Whether the complaint is ES-related; 
+Page 10 of 37 
+• If the complaint is ES-related, whether it is employer-related or agency-related; 
+• If the complaint (ES-related or non-ES-related)  alleges an employment law violation against an 
+employer, the enforcement agency to which the referral was made; and 
+• The action taken and whether the complaint has been resolved. 
+1.16 Elevating Complaints to the State  
+Complaints may be elevated to the state if: 
+• No decision or resolution has been reached within 15 working days of the filing of an ES complaint 
+against the agency; 
+• No decision or resolution has been reached within 15 working days of the filing of an ES complaint 
+against an employer that is not employment law related; 
+• An ES complaint is made against more than one WorkSource center or affiliate, with an alleged 
+agency-wide violation as noted in section 1.8; or 
+• A complaint is made against a respondent from another state as noted in section 1.8. 
+To elevate a complaint to the state, the complaint contact must submit a written notice to the Director of the 
+Workforce & Career Development Division (WCDD) of ESD via e-mail at WCDDPolicy@esd.wa.gov or by 
+mail at: 
+Workforce Career Development Division 
+Employment Security Department 
+PO Box 9046 
+Olympia, WA 98507-9046 
+1.17 Discontinuation of Service to Employers  
+• ESD shall initiate discontinuation of services procedures, consistent with 20 CFR 658 Subpart F, when 
+it has been determined, in response to an ES complaint, that an employer has violated an employment
+related law enforced by a federal or state agency and notice of a final determination against the 
+employer has been provided to the ESD by that agency. 
+• ESD shall notify the local WDC and all local partners providing non-ESD business services whenever 
+services are discontinued. 
+1.18 Complaint Posters 
+All WorkSource centers and affiliates that offer Wagner-Peyser funded services shall display an ETA
+approved WorkSource complaint poster. 
+1.19 References 
+• 20 CFR 658 Subpart E – Job Service Complaint System 
+• 20 CFR 658 Subpart F – Discontinuation of Services to Employers by the Job Service System 
+• 20 CFR 653.113 – Apparent Violations  
+• 20 CFR 653.503 – Field Checks 
+• 29 CFR 97.42 – Retention and Access Requirements for Records 
+Page 11 of 37 
+2. Trade Adjustment Act (TAA) Complaint & Eligibility Appeal Procedures 
+2.1 
+Purpose 
+To establish minimum requirements for processing denial of service appeals and customer service 
+complaints related to all TAA service providers and potentially eligible participants requesting services 
+available under the Trade Adjustment Assistance Program.   
+2.2 
+TAA Specific Complaint Definitions 
+Complaint (TAA) – the submission of a written and signed allegation that TAA funded programs/partners 
+violated TAA regulations.  At a minimum, TAA complaints must contain the following information: 
+• Complainant’s name; 
+• Mailing address, or other means by which the complainant may be contacted; 
+• Identification of individual(s) or organizations(s) responsible for the alleged issue; 
+• A description of the complainant’s allegations, which must include enough details to determine the 
+jurisdiction of the complaint and the date(s) the alleged incident(s) took place; and 
+• The complainant’s signature and signature date.  The signature of his/her authorized representative is 
+also acceptable. 
+Complaint Contact – local staff assigned to process complaints according to procedural requirements 
+contained in this section.   
+2.3 
+Complaints Received in Person 
+If an individual elects to file a complaint, the following minimum steps shall be followed: 
+• Offer to assist the complainant in filing a complaint.  It is recommended, but not required, that 
+complainants use the WorkSource Complaint Form.   
+• Provide the complainant with a completed copy of the complaint form and to any other complainants 
+named on the form. 
+• Follow procedures for handling TAA complaints.   
+2.4 
+Complaints Received in Writing 
+• When a complaint in any form (e.g., a letter) is received that is signed by the complainant and includes 
+sufficient information to initiate processing, the document must be treated as if it were a properly 
+completed Complaint Form filed in person by the complainant and processed as a denial of service or 
+as a customer service related complaint, depending on jurisdiction, as outlined in this procedure.   
+• If the complainant has not provided sufficient information, additional information shall be requested in 
+alignment with procedures noted in section 2.9. 
+2.5 
+Denial of Service 
+A TAA service provider may issue a written determination denying a service or benefit available under the 
+Trade Adjustment Assistance Program.  These services may include, but are not limited to: 
+• Job Search Allowances;  
+• Relocation Allowances;  
+Page 12 of 37 
+• Training (occupational skills, remedial, perquisite, on the job, part-time, distance learning, 
+apprenticeship, entrepreneur or customized training);  
+• Transportation and subsistence expenses; 
+• Trade Adjustment Assistance (TRA); 
+• Alternate Trade Adjustment Assistance (ATAA); and/or 
+• Reemployment Trade Adjustment Assistance (RTAA) 
+2.6 
+Denial of Service Procedures 
+The following procedures must be adhered to when denying a TAA service or benefit: 
+• Prior to making the determination to deny services, TAA service providers must make every effort to 
+work with the participant by explaining the law or policy, modifying their request, or developing an 
+alternative initial training plan. 
+• When the TAA service provider exhausts all attempts to resolve the matter with the participant, they 
+will issue a formal denial along with the basis for their determination to the participant and the State 
+TAA Coordinator.  At this time, the participant will be provided information on their appeal rights.  
+Local TAA service providers must have complaints resolved within 15 calendar days or appeals 
+forwarded to the State TAA Coordinator. 
+• If the State TAA Coordinator disagrees with the decision to deny service or benefits, they may 
+request the TAA service provider provide additional documentation and, or information about the 
+reason(s) for the denial.  The State TAA Coordinator may overturn the decision of the local TAA 
+program administrator when there has been an interpretive error with the law or policy. 
+2.7 
+Denial of Service Appeal Procedures 
+A participant receiving a written determination denying their benefits, who does not agree with the decision, 
+has the right to file an appeal.  The participant must file the appeal within 30 calendar days after the date of 
+notification or mailing post mark.  There are three primary types of decisions: 
+1.  Re-determination of an Entitlement Determination to TAA/TRA  
+2.  Determinations of Requests for: 
+• Job Search Allowance;  
+• Request for Relocation Allowances; or  
+• Request for Training Approval and, or transportation & subsistence allowances while in Training; 
+3.  UI Determination Notice; or a Determination Notice and Overpayment Assessment on the Trade 
+Readjustment Assistance (TRA) portion of a claim, and 
+• Determinations for Alternate Trade Adjustment Assistance (ATAA); or 
+• Reemployment Trade Adjustment Assistance (RTAA). 
+The customer (participant) must file the appeal with the TAA service provider.  The service provider will 
+contact the State TAA Coordinator or the TRA Coordinator for guidance on processing an appeal packet.  
+The local TAA service provider will mail the appeal packet to the Administrative Law Judge (ALJ) at the 
+following address:   
+Page 13 of 37 
+Office of Administrative Hearings 
+One Union Square, Suite 1500 
+600 University Street 
+Seattle, Washington   98101 
+Upon receipt of an appeal packet, the ALJ will schedule a court date and assign the case a court docket 
+number.  The ALJ will also notify the participant and all parties required to attend the hearing by mail.  The 
+TAA Program will be represented at all ALJ hearings by the State Trade Act Coordinator or his/her 
+designated representative.   
+2.8 
+Procedures for Handling Customer Service Related TAA Complaints  
+Customer service related complaints not processed under denial of services procedures shall, at a 
+minimum, be processed as follows: 
+• Conduct fact-finding. 
+• Attempt to resolve the complaint within 15 working days of receiving the complaint. 
+• Document all actions taken. 
+• If unable to resolve the complaint within 15 working days, the complaint contact shall be elevated to the 
+complaint to the state using information noted in section 2.13.  The referral shall be made in writing and 
+contain a summary of the local determination made.  The complaint contact shall inform the 
+complainant and the respondent, in writing, of the referral action made to the state. 
+• The state may attempt to resolve the complaint or, if necessary, conduct additional fact finding.  If a 
+resolution has not been achieve within 30 working days from the date of referral, the state shall issue a 
+written determination via certified mail.   
+• The complainant may request a hearing if he/she remains unsatisfied after a determination has been 
+issued by the state.  Hearings will be scheduled in accordance with 20 CFR 658.416(e). 
+2.9 
+Requests for Additional Information 
+If a complaint contact is unable to speak to a complainant for the purposes of obtaining additional 
+information needed to resolve a complaint, a written request for additional information shall be sent via 
+certified mail or through some other form of communication where receipt can be verified.  All TAA 
+complainants are allowed 20 working days from the date of receipt to respond to a written request for 
+additional information.  If a complainant does not respond, the complaint shall be considered closed.   
+2.10 Confidentiality 
+The identity of a complainant(s) or any person who furnishes information related to, or who has assisted in 
+an investigation of a complaint shall be kept confidential to the maximum extent possible consistent with 
+applicable law and a fair determination of the complaint.  The identity of a complainant may only be 
+released upon written consent of the individual(s) furnishing information regarding a complaint or apparent 
+violation.   
+2.11 Record Keeping 
+All records and correspondence related to complaints shall be maintained separately from any other 
+records by the complaint contact.  All records regarding TAA complaints and actions taken must be 
+maintained for a period of not less than three (3) years from the final date of resolution of the complaint in 
+alignment with 29 CFR 97.42. 
+Page 14 of 37 
+At a minimum, files shall include:  
+• An original of completed complaint form(s); 
+• Originals of all correspondence received/transmitted; 
+• Copies of e-mail correspondence if any; 
+• Copies of written or typed notes; 
+• Miscellaneous items relevant to the allegations such as copies of check stubs, work agreements, etc. 
+• Complaints shall be kept in an inactive file for at least three years after the resolution date.   
+2.12 Complaint Logs 
+All WorkSource centers and affiliates shall maintain a system for logging complaints.  A complaint log is 
+attached and meets the requirements for all program and EO complaints.  At minimum, the log must 
+contain: 
+• The name of the complainant; 
+• The name of the respondent; 
+• The date the complaint is filed; 
+• The action taken and whether the complaint has been resolved. 
+2.13 Elevating Customer Service Related Complaints to the State  
+A TAA customer service related complaint may be elevated to the state if: 
+• No decision or resolution has been reached within 15 working days of the filing of the complaint; or  
+• The TAA customer service related complaint is made against more than one WorkSource center or 
+affiliate, with an alleged agency-wide violation. 
+To elevate a TAA customer service related complaint to the state, the complaint contact must submit a 
+written notice to the Director of WCDD via e-mail at WCDDPolicy@esd.wa.gov or by mail at: 
+Workforce Career Development Division 
+Employment Security Department 
+PO Box 9046 
+Olympia, WA 98507-9046 
+2.14 References 
+• The Trade Act of 1974 
+• Trade Act of 2002 (Pub. L. 107-210) (“the 2002 amendments”) 
+• The Trade and Globalization Adjustment Assistance Act of 2009 
+• 20 CFR 617 
+• Training and Employment Guidance Letter (TEGL) No.  22-08, and TEGL 22-08 Change 1 
+• TEGL 10-11, 10-11 Change 1 and 10-11 Change 2 
+• 20 CFR 658 Subpart E – Job Service Complaint System 
+• 20 CFR 667.600(c)(1) – Requirement for Process Dealing with Complaints 
+• 29 CFR 97.42 – Retention and Access Requirements for Records 
+Page 15 of 37 
+3. WIA Complaint Procedures 
+3.1 
+Purpose 
+To establish minimum requirements for resolving complaints alleging a violation of WIA Title I 
+regulations, grants, or other agreements under WIA.   
+3.2 
+WIA Specific Complaint Definitions 
+Complainant – an individual, organization, association, or other entity filing a complaint.   
+Complaint (WIA) – the submission of a written and signed allegation that WIA Title 1-B funded 
+programs/partners violated WIA Title 1-B regulations.  At a minimum, complaints must contain the following 
+information: 
+• Complainant’s name; 
+• Mailing address, or other means by which the complainant may be contacted; 
+• Identification of individual(s) or organizations(s) responsible for the alleged issue; 
+• A description of the complainant’s allegations, which must include enough details to determine the 
+jurisdiction of the complaint and the date(s) the alleged incident(s) took place; and 
+• The complainant’s signature and signature date.  The signature of his/her authorized representative is 
+also acceptable. 
+Local Hearing – the process by which a local area, through an impartial hearing officer, reaches a 
+determination in an attempt to resolve a WIA complaint within 60 calendar days from the date of complaint 
+submission.  For all intents and purposes, the local hearing is the formal resolution process prescribed by 
+WIA, but complaints can be resolved prior to, and in lieu of, a local hearing.    
+Local Hearing Officer – an impartial officer responsible for conducting a hearing.  Impartial officers shall 
+not be directly connected to the allegations or potentially affected by the results of the determination(s).   
+3.3 
+Providing Information about WIA Complaint Procedures  
+• Information about the local WIA complaint procedures, including instructions on how to file a complaint, 
+must be made available to WIA Title 1-B participants and other interested parties in the WorkSource 
+System upon request.   
+• Individuals receiving WIA Title 1-B funded services shall be provided a notice of their right to file a 
+complaint.  An acknowledgement of receipt shall be signed by the participant and included in the 
+participant's file.  For an example, refer to the WIA Summary of Rights and Procedures Form.   
+• Reasonable efforts shall be made to ensure that information about the content of the WIA complaint 
+procedures will be understood by all individuals, including youth and Limited English Proficient (LEP) 
+individuals.  Such efforts must comply with the language requirements of 29 CFR 37.35. 
+• All persons filing complaints shall be free from restraint, coercion, reprisal, or discrimination.   
+3.4 
+Complaint Resolution Timeline 
+Complainants must be provided an opportunity to resolve complaints, without a hearing, and an opportunity 
+for a hearing if the resolution is not agreeable to any party involved.  An initial resolution should be 
+attempted within the first 25 calendar days to allow WDCs sufficient time to prepare for and conduct a 
+hearing, in the event that the complaint is not resolved.  The hearing must be completed, and a 
+determination provided, within 60 calendar days.   
+Page 16 of 37 
+3.5 
+Local Hearings 
+The submission of a complaint is considered a complainant’s hearing request.   A hearing before an 
+impartial hearing officer shall be completed within 60 calendar days of the filing of a complaint unless such 
+a complaint is resolved prior to the hearing.   
+The complainant and the respondent must be notified in writing of the hearing prior to the date of the 
+hearing.  The hearing notice shall be in writing and must contain the following information:  
+• The date of the notice, name of the complainant, and the name of the party against whom the grievance 
+or complaint is filed;  
+• The date, time, and place of the hearing;  
+• A statement of the alleged violations; and   
+• The name, address, and telephone number of the contact person issuing the notice.   
+Impartial hearing officers will be provided to conduct hearings on complaints. Hearing officers will be 
+individuals who have qualifications necessary to conduct proceedings which meet these requirements and 
+to issue decisions which reflect WIA, its regulations, and other applicable laws. No individual will hear or 
+decide on issues in cases in which he or she is an interested party. 
+Hearings will cover only those matters deemed to be issues pertaining to the particular grounds of the 
+complaint, as determined by the hearing officer. 
+Full and complete records will be kept of all hearing proceedings. All testimony will be recorded. 
+Individuals involved in hearing proceedings have the right to be represented by counsel or other authorized 
+agent(s) at their own expense. 
+All parties have the right to present witnesses and evidence. 
+Complainants have the right to question witnesses and other parties. 
+The burden of proof rests with complainants to demonstrate that allegations are true and based on a 
+preponderance of evidence. 
+A hearing determination will be provided to complainant within 60 calendar days from the date of complaint 
+submission. 
+3.6 
+State Level Appeal 
+An appeal may be filed with the state if: 
+• No local decision has been reached within 60 calendar days; or 
+• If either party remains dissatisfied with the local hearing decision. 
+To request a state hearing, the complainant must submit a written and signed notice of appeal to the 
+Director of WCDD via e-mail at WCDDPolicy@esd.wa.gov or by mail at: 
+Workforce Career Development Division 
+Page 17 of 37 
+Employment Security Department 
+PO Box 9046 
+Olympia, WA 98507-9046 
+3.7 
+Confidentiality 
+The identity of a complainant(s) or any person who furnishes information related to, or who has assisted in 
+an investigation of a complaint shall be kept confidential to the maximum extent possible consistent with 
+applicable law and a fair determination of the complaint.  The identity of a complainant may only be 
+released upon written consent of the individual(s) furnishing information regarding a complaint.   
+3.8 
+Record Keeping 
+All records and correspondence related to complaints shall be maintained separately from any other 
+records by the complaint contact.  All records regarding WIA Title 1-B complaints and actions taken must 
+be maintained for a period of not less than three (3) years from the final date of resolution of the complaint 
+in alignment with 29 CFR 97.42.  See 29 CFR 95.53 for institutions of higher education, non-profit 
+organizations, and commercial organizations. 
+At a minimum, files shall include:  
+• The original complaint filed; 
+• Copies of all documents related to the issues that were collected and reviewed, including all fact-finding 
+reports and interviews; and 
+• Copies of all correspondence and agreements with involved parties.   
+3.9 
+Complaint Logs 
+All actions taken in relation to receipt, referral, and/or disposition of each complaint must be recorded in 
+a complaint log provided at the end of this Handbook. This log will also meet the requirements for all 
+program and EO complaints.   
+3.10 Binding Arbitration 
+Complaints shall be processed through a binding arbitration procedure if a collective bargaining agreement 
+covering the parties to the complaint so provides. 
+3.11 References 
+• 20 CFR 667 Subpart F – Grievance Procedures, Complaints and State Appeals Processes 
+• 29 CFR 37 Sec.  37.35 – Responsibilities to Provide Services and Information in Languages Other 
+Than English 
+• 29 CFR 97.42 – Retention and Access Requirements for Records 
+• 29 CFR 95.53 – Retention and Access Requirements for Records 
+Page 18 of 37 
+4. Discrimination Complaint Procedures  
+4.1 
+Purpose 
+To establish minimum requirements to Workforce Development Councils (WDCs), their subrecipients of the 
+WIA Title I grant funds, service providers and centers regarding the development, maintenance, and 
+implementation of local-level discrimination complaint procedures.  Under these procedures local area 
+One-Stop system customers and staff are able to file discrimination complaints with the entities identified in 
+Section 4.3 of this manual.  These procedures apply to the following One-Stop system customers and staff 
+in the local area:  
+• All customers of One-Stop system programs and services delivered at WorkSource Centers and other 
+provider sites in the local area. 
+• Partner staff of One-Stop system centers and providers.  Partner staff may file a discrimination 
+complaint with his or her organization’s Equal Opportunity Officer or under this policy as provided in 
+Section 4.3 of these procedures.  Normally when a partner staff discrimination complaint is against the 
+employer or a fellow employee it is filed with the partner’s EO Officer.  When the discrimination 
+complaint is against any other center or service provider staff it can be filed with the WDC EO Officer or 
+others as provided in Section 4.3 of this manual. 
+• ESD staff filing a discrimination complaint against WDC or service provider staff.  ESD staff filing a 
+discrimination complaint against other ESD staff would use the provisions of ESD Policy and Procedure 
+#0013 – Discrimination Complaint Processing. 
+• WDC Board and staff.   
+4.2  
+Discrimination Complaint Definitions 
+Civil Rights Center (CRC) – The CRC is the federal enforcement agency with the United States 
+Department of Labor (USDOL) located in Washington D.C., with jurisdiction over discrimination complaints 
+alleging violations of WIA, Title VI of the Civil Rights Act of 1964, as amended, Section 504 of the 
+Rehabilitation Act of 1973, as amended, the Americans with Disabilities Act, as amended, and similar laws 
+that pertain to recipients of USDOL financial assistance. 
+Complaint (Discrimination) – The submission of a written and signed allegation that programs/partners 
+violated non-Discrimination regulations.  At a minimum, discrimination complaints must contain the 
+following information: 
+• Complainant’s name. 
+• Mailing address, or other means by which the complainant may be contacted. 
+• Identification of individual(s) or organization(s) responsible for the alleged discrimination; and 
+• A description of the complainant’s allegations, which must include enough details to determine: 
+o WDC jurisdiction over the complaint; 
+o if the complaint was filed timely (within 180 calendar days of the incident); 
+o specific prohibited bases of the alleged discrimination (i.e., race, sex, etc.); and 
+o apparent merit of the complaint. 
+• Complainant’s signature or the signature of his/her authorized representative. 
+Recipient – as defined in the WIA nondiscrimination regulations 29 CFR Part 37.4 means any entity to 
+which financial assistance under WIA Title I is extended, either directly from the U.S.  Department of Labor 
+Page 19 of 37 
+or through the Governor or another recipient, but excluding the participants or beneficiaries of WIA Title I 
+funded programs and activities.   
+Recipient includes all One-Stop partners to the extent that they participate in the One-Stop delivery 
+system.  As a result, all partners in the One-Stop Delivery system are subject to the nondiscrimination 
+requirements of 29 CFR Part 37.  However, only WDCs and above are required to have EO Officers and 
+process discrimination complaints. 
+Service provider – as defined in the WIA nondiscrimination regulations at 29 CFR Part 37.4 means any 
+operator of, or provider of, aid, benefits, services, or training to 1) any WIA Title I funded program or activity 
+that receives financial assistance from or through any State or LWIA grant recipient, or to 2) any participant 
+through that participant's Individual Training Account (ITA). 
+State Equal Opportunity (EO) Officer – The State EO Officer is the individual designated at the state 
+level with the oversight responsibility for coordinating, implementing, maintaining and monitoring the 
+nondiscrimination and equal opportunity requirements. 
+WDC Equal Opportunity (EO) Officer – The WDC EO Officer is the WDC’s designated staff person 
+responsible for administration of the WDC and its subrecipients and service providers’ discrimination 
+complaint processing as outlined in this policy and procedures.   
+4.3 
+Filing a Discrimination Complaint  
+All grant recipients/program providers under Title I of WIA are responsible for complying with the 
+discrimination complaint procedures consistent with 29 CFR Part 37, as outlined in this section: 
+• Any person who believes that he or she, or any specific class of individuals, has been or is being 
+subjected to discrimination on the basis of race, color, religion, sex, national origin, age, disability, 
+political affiliation or belief, and for customers only, citizenship or participation in WIA Title I program, 
+has the right to file a discrimination complaint. 
+• The Washington Law Against Discrimination, RCW 49.60, prohibits discrimination in public 
+accommodations on these additional bases: marital status, sexual orientation or gender identity, 
+honorably discharged veteran or military status, and the use of a trained guide dog or service animal by 
+a person with a disability. 
+Discrimination complaints filed on these grounds will be processed based on state law and without any 
+references to the U.S.  Department of Labor or the Civil Rights Center.   The complainant is not able to 
+file a subsequent complaint with the Civil Rights Center but must file a discrimination complaint with the 
+Washington State Human Rights Commission.  It is required, that the discrimination complaint be filed 
+on the WorkSource Discrimination Complaint Form.  (English and Spanish attached) 
+• A discrimination complaint must be written and it must be filed within one hundred and eighty (180) 
+calendar days of the last alleged discriminatory incident.   
+• Any customer wishing to file a discrimination complaint must be given the option to file it with the WDC 
+EO Officer, State EO Officer or with the Director of the Civil Rights Center, United States Department of 
+Labor (CRC/USDOL).  Discrimination complaints may be filed with ESD or the WDC and with the 
+CRC/USDOL simultaneously.  Center or provider staff should file a discrimination complaint with their 
+Page 20 of 37 
+organization’s Equal Opportunity Officer when the allegations are against their employer or a fellow 
+employee.  Otherwise they may file as provided in this paragraph.  However, the WDC EO Officer 
+should always be notified when a discrimination complaint has been filed and the allegations took place 
+at a local center or provider site.  Discrimination complaints received at a WorkSource Center/Affiliate 
+or Service Provider should be immediately forwarded to the WDC Equal Opportunity Officer.  Following 
+is contact information for the State EO Officer and the USDOL Civil Rights Center: 
+State EO Officer 
+Employment Security Department 
+128 10th Ave.  SW, 5th Floor 
+P.O.  Box 9046, 
+Olympia, WA 98507-9046 
+or 
+Director, Civil Rights Center 
+U.S.  Department of Labor 
+200 Constitution Avenue NW 
+Room N-4123 
+Washington, DC  20210 
+• A discrimination complaint may be filed using the WorkSource Discrimination Complaint Form 
+(attached) or the complaint may be written out. 
+• No individual, organization or agency may refuse service, discharge or retaliate in any manner against 
+any person because that person has filed a discrimination complaint, instituted any proceeding related 
+to a discrimination complaint, testified, or is about to testify, in any proceeding or investigation related to 
+a discrimination complaint, or has provided information or assisted in an investigation. 
+4.4 
+Distinguishing Between Program and Discrimination Complaints 
+A discrimination complaint is a complaint alleging problems with service delivery or participation as the 
+reason for the mistreatment or denial of participation being one or more of the following USDOL prohibited 
+factors: race; color; national origin; sex; religion; age; disability; political affiliation or belief; participation in 
+WIA Title I financially assisted program; or, citizenship/right to work in the United States.  State prohibited 
+factors that also apply are: marital status; sexual orientation or gender identity; or, honorably discharged 
+veteran or military status.  The EO Officer and program staff will collaborate to process this discrimination 
+complaint. 
+However, if the complainant alleges s/he was mistreated in service delivery because of a prohibited factor 
+such as race, national origin, sex, etc. and the complainant also alleges she was denied admittance to a 
+program because of her income level, these are handled as a separate discrimination complaint and a 
+program complaint.  If the complainant had alleged that both were due to prohibited factors, it would be a 
+single discrimination complaint.  The discrimination complaint would be processed under these procedures 
+and the program complaint would be processed under the appropriate program procedures.  If desired, the 
+discrimination complaint Notice of Final Action and the program complaint determination letter may be sent 
+in the same letter but must be separate subjects.  The Notice of Final Action should always be signed by 
+the Executive Director since the recipient (WDC) and the Governor are jointly and individually liable for all 
+violations of the nondiscrimination and equal opportunity provisions of 29 CFR Part 37.  (Part 37.52(a) and 
+(b)). 
+Discrimination complaint data will be available for review by USDOL Civil Rights Center (CRC) upon 
+request. 
+Page 21 of 37 
+4.5 
+Receiving a Discrimination Complaint 
+• If the complainant elects to file a discrimination complaint with an employee in a WorkSource center or 
+affiliate site, that employee will immediately accept the discrimination complaint and forward it to the 
+Complaint Contact who, after reviewing it to determine it is, in fact, a discrimination complaint, will 
+forward it to the WDC EO Officer. 
+• The WDC EO Officer is responsible for providing local intake services for discrimination complaints to 
+determine if the complaint is covered by 29 CFR Part 37, and for resolving jurisdictional issues, if any. 
+• Upon receipt of a discrimination complaint, the WDC EO Officer will log the complaint and, if necessary, 
+shall confer with the State EO Officer prior to determining jurisdiction over the matter.   
+If the WDC EO Officer determines s/he does not have jurisdiction over the discrimination complaint, 
+s/he must immediately notify the complainant in writing, including the reasons for the determination.  
+This Notice of Lack of Jurisdiction must advise the complainant that he has a right to file a complaint 
+with the Director of CRC within thirty (30) calendar days of the issuance of the notice.  If the WDC EO 
+Officer determines that another entity has jurisdiction, she will promptly refer the discrimination 
+complaint to that entity and also promptly notify the complainant of the referral. 
+4.6 
+Initial Letter, Contents and Timeframes for Processing a Discrimination Complaint 
+Within ten (10) working days of receipt of the discrimination complaint, the WDC EO Officer shall issue an 
+initial written Notice of Receipt to the complainant that contains the following information: 
+• Acknowledgement of receipt of the discrimination complaint. 
+• Advising the complainant of his right to seek representation by an attorney or other individual of his 
+choice in the discrimination complaint process. 
+• A list of each issue raised in the discrimination complaint and, for each issue, a statement that the issue 
+is accepted for investigation or is not accepted.  The reason(s) must be provided for rejection. 
+• Advising the complainant of the timeframes for processing the discrimination complaint and providing a 
+determination. 
+• The total time allowed for processing the discrimination complaint is ninety (90) calendar days from the 
+date on which the complaint was filed.  There is no extension available.  This timeframe includes sixty 
+(60) days at the local level and thirty (30) days for review at the state level, if needed. 
+• If the complainant elects to file with both CRC and the WDC, the complainant shall be informed that the 
+WDC has ninety (90) calendar days to process the discrimination complaint and that CRC shall not 
+investigate the complaint until the ninety (90) calendar-day period has expired. 
+• The complainant must be given an invitation to participate in mediation.  This is sent out with the notice 
+of receipt.  For more information, see section 4.7.  
+Immediately after issuance of the Notice of Receipt to the complainant, the WDC EO Officer shall either 
+begin the fact-finding or investigation of the discrimination complaint, or arrange to have an investigation 
+conducted by an individual trained in conducting discrimination complaint investigations. 
+4.7 
+Alternative Dispute Resolution (ADR)/Mediation Process 
+• The WDC EO Officer will include an Invitation to Mediation with the Notice of Receipt, offering 
+discrimination complainants the opportunity to use Alternative Dispute Resolution (ADR).  Complainants 
+may voluntarily elect to participate in ADR, which usually takes the form of mediation.  If the 
+complainant selects mediation, it allows disputes to be resolved in a less adversarial manner.  With 
+mediation, a neutral party assists two opposing parties in a dispute come to an agreement to resolve 
+Page 22 of 37 
+their issue.  The mediator does not function as a judge or arbiter but simply helps the parties resolve 
+the dispute themselves.   
+• Upon receiving a request to mediate, the WDC EO Officer will process the request and then 
+immediately forward it to the State EO Officer.  The State EO Officer will coordinate with the WDC EO 
+Officer to contract with an approved mediator.  The individual conducting the mediation must be a 
+neutral and impartial third party who will act as a facilitator.  The mediator must be a person who is 
+acceptable to all parties and who will assist the parties in resolving their disputes. 
+• If the complainant chooses to participate in mediation, he or his designee must respond in writing within 
+ten (10) calendar days of the date of the invitation.  This written acceptance must be dated and signed 
+by the complainant and must also include the relief sought. 
+• After mediation is arranged, a written confirmation identifying the date, time and location of the 
+mediation conference will be sent to both parties. 
+• If at all possible, the mediation process should be completed within thirty (30) calendar days of receipt 
+of the discrimination complaint.  This will assist in keeping within the ninety (90) calendar-day timeframe 
+of the written Notice of Final Action if the mediation is not successful. 
+• A consent form will be signed by both parties at initiation of the mediation process affirming that the 
+contents of the mediation will be kept confidential. 
+• If resolution is reached under ADR/mediation, the agreement will be in writing.  A copy of the signed 
+agreement will be sent to the State EO Officer. 
+• If an agreement is reached under ADR/mediation but a party to the agreement believes his agreement 
+has been breached, the non-breaching party may file a complaint with the CRC Director. 
+• If the parties do not reach resolution under ADR/mediation, the WDC EO Officer will continue with the 
+investigation. 
+4.8 
+Notice of Final Action 
+A written Notice of Final Action will be provided to the complainant within ninety (90) calendar days of the 
+date the discrimination complaint was filed.  It will contain: 
+• A statement regarding the disposition of each issue raised in the discrimination complaint and the 
+reason for the determination. 
+• If the discrimination complaint was resolved by mediation, a copy of the agreement will be attached to 
+the Notice of Final Action. 
+• A notice that the complainant has the right to file a complaint with CRC within thirty (30) calendar days 
+after the date the Notice of Final Action is issued, if the complainant is dissatisfied with the recipient’s 
+final action on the discrimination complaint. 
+The State EO Officer will review discrimination complaint data on a routine basis.  Should deficiencies be 
+noted in the implementation of these discrimination complaint procedures by any WDC, the State EO 
+Officer will collaborate with the WDC EO Officer to review the information and/or provide technical 
+assistance in the discrimination complaint process, alternative dispute resolution, and/or investigation.  
+Discrimination complaint data will be available for review by CRC/USDOL upon request. 
+4.9 
+Corrective Action 
+If discrimination is found through the process of a complaint investigation, the respondent shall be 
+requested to voluntarily comply with corrective action(s) or a conciliation agreement to implement remedial 
+action.  If voluntary compliance efforts fail, sanctions may be considered.  Prior to sanctions being applied, 
+procedural due process will be provided. 
+Page 23 of 37 
+4.10 Confidentiality 
+WDC EO Officers are required to keep the following information confidential to the maximum extent possible, 
+consistent with applicable law and fair determination of the discrimination complaint: 
+• The fact that the discrimination complaint has been filed; 
+• The identity of the complainant(s); 
+• The identity of individual respondents to the allegations; and  
+• The identity of any person(s) who furnished information relative to, or assisting in, a complaint investigation. 
+A log will be maintained at the WDC level for logging, tracking, and reporting on discrimination complaints.  
+A Complaint Log is attached and meets the requirements for program and EO complaints. 
+4.11 Record Keeping 
+WDC EO Officers must maintain a log of discrimination complaints filed that allege discrimination based on 
+race, color, religion, sex, national origin, age, disability, political affiliation or belief, citizenship, and/or 
+participation in a WIA Title I financially assisted program or activity.   
+The log must include: 
+• The name and address of the complainant;  
+• The basis of the discrimination complaint;  
+• A description of complaint;  
+• The date the complaint was filed;  
+• The disposition and date; and 
+• Any other pertinent information.   
+All records regarding discrimination complaints and actions taken on discrimination complaints must be 
+maintained for a period of not less than three (3) years from the final date of resolution of the complaint. 
+4.12 References 
+• Section 188 of WIA 
+• 29 CFR Part 37 – Regulations promulgating Section 188 of the WIA 
+• Title VI & VII of the Civil Rights Act of 1964, as amended 
+• Section 504 of Rehabilitation Act of 1973, as amended 
+• The Age Discrimination Act of 1975, as amended 
+• Titles II, of the Americans with Disabilities Act of 1990, as amended 
+• Equal Pay Act of 1963 
+• Title IX of Education Amendments of 1972 
+• President’s Executive Order 11246 
+• Revised Code of Washington (RCW) 49.60 
+Page 24 of 37 
+5. Tools 
+• Complaint Log (sufficient for all complaints).  Download here. 
+• Summary of Rights and Procedures Form.  Download here.  
+• Program Complaint Form - English (sufficient for Wagner-Peyser, TAA, and WIA complaints). 
+Download here. 
+• Program Complaint Form - Spanish.  Download here. 
+• WorkSource Discrimination Complaint Form - English (sufficient for discrimination complaints).  
+Download here. 
+NOTE: discrimination complaint forms are available in several other languages on the CRC website.  
+Refer to the section titled “How to file an Equal Opportunity Complaint.” 
+• Coordinated Concern and Complaint Resolution Process Flow.  Download here.
+ Page 25 of 37 
+ 
+ 
+ 
+ 
+ 
+ 
+Instructions / Definitions:  
+Date of Receipt - The day the complaint is received.  Complaints must be submitted within a year of the incident for Wagner-Peyser or 180 days for discrimination complaints. 
+ID - The last two digits of program year + consecutive 3 digit ID number (i.e., the first complaint of PY 2013 will be "13-001"). 
+Program or Process - Refers to a federal program (e.g.  WIA) or it could be a specific function (e.g.  Job Referral).  Program or Process also indicates jurisdiction. 
+Resolution / Disposition - The outcome or determination of the investigation, including any referral/transfer.  If referred/transferred, the agency or partner the complaint has been transferred to 
+needs to be clearly identified. 
+Respondent - Refers to the organization and individual within the WorkSource system whom the complaint is filed against. 
+ID 
+ 
+Date of 
+Receipt 
+Complainant’s 
+Name 
+Complainant’s 
+Address 
+Program/ 
+Process 
+MSFW Grounds / Description Respondent Resolution / Disposition Date of 
+Resolution 
+ADR 
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+ Click here 
+to enter a 
+date. 
+            Choose an 
+item. Yes  
+No  
+                  Click here to 
+enter a date. 
+Yes  
+No  
+Complaint Log 
+ 
+Workforce Development Area:        Program Year:        
+Complaint Coordinator:        Quarter Ending:        
+Page 26 of 37 
+           
+WIA Summary of Rights and Procedures 
+RIGHTS  
+You have the right to file a complaint if you feel you have a complaint relating to your employment and/or training and 
+will not be penalized for filing a complaint.  Your complaint must contain sufficient information for us to determine 
+who is authorized to handle the complaint.   
+FILING A COMPLAINT  
+To file a complaint, contact a local staff person and tell her/him that you want to file a complaint.  Local staff will 
+provide you with the necessary information and assistance to put your complaint in writing.  Within 25 days of filing 
+the complaint, a solution will be offered to resolve the matter.  If you feel that your complaint is not resolved during 
+this initial resolution effort, a hearing will be scheduled.   
+INFORMATION REGARDING HEARINGS 
+A hearing will be provided within sixty (60) days of the receipt of a complaint, unless the complaint is resolved prior to 
+the hearing date.  The following information will be provided to you prior to the hearing date: 
+• The date of the notice, name of the complainant, and the name of the party against whom the grievance or 
+complaint is filed;  
+• The date, time, and place of the hearing;  
+• A statement of the alleged violations; and   
+• The name, address, and telephone number of the contact person issuing the notice.   
+DECISION AND APPEAL PROCESS 
+A hearing decision will be provided within 60 days of filing your complaint, unless the complaint is resolved without a 
+hearing.  If you are not satisfied with the final decision, or if a decision has not been reached within the 60 day 
+timeframe, you may send a written and signed notice of appeal via e-mail to WCDDPolicy@esd.wa.gov or by mail at:  
+Workforce Career Development Division 
+Employment Security Department 
+PO Box 9046 
+Olympia, WA 98507-9046 
+The Workforce Development Council is an Equal Opportunity Employer and Provider of Employment and Training 
+Services.  Auxiliary aids and services are available upon request to individuals with disabilities.  For Washington 
+Telecommunications Relay Service dial 711 or 1-800-833-6384. 
+_____________________________________                    
+Applicant Signature       
+__________________________ 
+Date 
+Page 27 of 37 
+ 
+Program Complaint Form 
+ 
+Complainant’s Information Respondent’s Information 
+Last Name First Name MI Name of Person Complaint is Against 
+                        
+Address (No., St., City, State, Zip) Name of Organization / Office 
+            
+Email Address (No., St., City, State, Zip) 
+            
+Phone # Alt.  Phone # Phone # Email 
+                        
+Description of the Complaint (Please explain the incident and circumstances) 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date of Incident       
+Desired Resolution (Please explain any resolution(s) you are seeking in response to this complaint) 
+      
+ 
+ 
+ 
+ 
+Certification: I CERTIFY that the information furnished is true and accurately stated to the best of my knowledge.  I AUTHORIZE the 
+disclosure of Certification this information to other enforcement agencies for the proper investigation of my complaint.  I UNDERSTAND that 
+my identity will be kept confidential to the maximum extent possible, consistent with applicable law and a fair determination of my complaint. 
+ 
+Can we share this complaint/information with the individual this complaint has been filed against? Yes   No   
+ 
+Signature of Complainant: X       Date:       
+**Staff Use Only** 
+What program was involved in the alleged incident? (check all that apply) 
+  Employment Service (Wagner Peyser) 
+ Against ESD  
+ Against Employer, Job Order WA#         
+ Alleged Violation of Wagner Peyser Regulations  
+ Alleged Violation of Employment Law(s) 
+ 
+  Non Employment Service Complaint Against Employer 
+ Alleged Violation of Employment Law(s) 
+ Other:       
+ 
+  Workforce Investment Act (DW, Adult, Youth) Program 
+ 
+  Trade Adjustment Assistance (TAA) Program    
+ 
+  Other Program/Provider:       
+ 
+ 
+ 
+ 
+Referrals (if applicable):      
+Agency / Organization Receiving Referral 
+Dept.  of Labor & Industries          Dept.  of Health         Human Rights Commission          Other:       
+Agency Contact       Phone #       Email       
+Name of Staff Person Receiving Complaint 
+Last Name First Name Office Address (No., St., City, State, Zip) 
+                  
+Staff Signature: X       Date:       
+Phone # Email  
+            
+Page 28 of 37 
+           
+ 
+ FORMA PARA QUEJAS  
+Información Del Reclamante Información De La Persona/Organización Demandada 
+Apellido Nombre Nombre y Apellido De La Persona Demandada 
+                  
+Dirección (número, calle, ciudad, estado, código postal) Nombre de la Organización, Negocio, Empresa o Empleador  
+            
+Email (correo electrónico) Dirección (número, calle, ciudad, estado, código postal) 
+            
+# De Teléfono #  De Teléfono Alternativo Teléfono Email (correo electrónico) 
+                        
+Declaración (Explique qué pasó.  Incluya nombres, direcciones, números de teléfono, lugares, testigos, etc.  ) 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fecha Del Incidente       
+Solución/Resultado Deseado 
+ (Por favor explique cualquier solución(es) que está buscando en respuesta a la queja) 
+      
+ 
+ 
+ 
+Certificación: DECLARO que la información que estoy dando es verdadera y correcta de acuerdo con mi conocimiento.  AUTORIZO la 
+divulgación de esta información a otras agencias para la investigación apropiada y el cumplimiento de mi queja.  ENTIENDO que mi 
+identidad se mantendrá confidencial tanto como sea posible, en consistencia con las leyes que se aplican y con una determinación justa de 
+mi queja. 
+ 
+Podemos compartir esta queja/ información con el individuo que esta queja ha sido presentada en contra?   Sí   No   
+ 
+Firma Del Reclamante: X       Fecha:       
+**Staff Use Only** 
+What program was involved in the alleged incident? (check all that apply) 
+  Employment Service (Wagner Peyser) 
+ Against ESD  
+ Against Employer, Job Order WA#         
+ Alleged Violation of Wagner Peyser Regulations  
+ Alleged Violation of Employment Law(s) 
+ 
+  Non Employment Service Complaint Against Employer 
+ Alleged Violation of Employment Law(s) 
+ Other:       
+ 
+  Workforce Investment Act (DW, Adult, Youth) Program 
+ 
+  Trade Adjustment Assistance (TAA) Program    
+ 
+  Other Program/Provider:       
+ 
+ 
+ 
+ 
+Referrals (if applicable):      
+Agency / Organization Receiving Referral 
+Dept.  of Labor & Industries          Dept.  of Health         Human Rights Commission          Other:       
+Agency Contact       Phone #       Email       
+Name of Staff Person Receiving Complaint 
+Last Name First Name Office Address (No., St., City, State, Zip) 
+                  
+Staff Signature:  
+X       
+Date Received: 
+      
+Phone # Email  
+            
+Page 29 of 37 
+ 
+ 
+ 
+Washington Discrimination Complaint Information Form 
+ 
+Please read the form carefully.  Type or print your answers.  Answer each question as completely as possible.  If you cannot fit your whole 
+answer in the space on this form, you may add more pages. 
+ 
+If a question or field has a star (*) next to it, you must provide that information.  Providing the other information requested is 
+optional, but will assist the WorkSource Washington in processing your discrimination complaint.  If you do not know the answer to a 
+question, put “not known” in the space for the answer.  If the question does not apply to your case, put “n/a.” 
+ 
+*1.  Are you the complainant or a representative of the complainant?  Please check the correct box.   Complainant   Representative 
+*2. Please give your name and the other information we ask you for on the lines below.  If you are a representative of the complainant, give the 
+complainant’s name and contact information in this section, and your own name and contact information in section 2A. 
+ 
+*Complainant’s Name 
+ 
+*Street Address 
+     
+*City  *State  Zip Code 
+       
+Telephone number(s) where we can reach you. 
+   
+E-mail Address  Best time to contact you. 
+   
+2A.  If you are the complainant’s representative, please give your name and contact information in this section. 
+   
+Representative’s Name  Representative’s Organization (if any) 
+   
+Street Address 
+     
+City  State  Zip Code 
+       
+Telephone number(s) where we can reach you.  (Do not give your work number if you don’t want us to call you there.) 
+   
+E-mail Address  Best time to contact you. 
+   
+For the rest of the questions on this form, if you are filing this discrimination complaint on behalf of someone else, “you” means that person (the 
+complainant), not you personally.  Please give the answers the complainant would give if he or she was filling out the form. 
+ 
+*3.  This discrimination complaint is about something that happened to (Please check the appropriate box): 
+   Only me     Me and other people     Other people, but not me 
+3A.  I am a:     Customer        Staff        Job applicant                    
+*4. Please give the name of the WorkSource Center, service provider or organization that you are complaining about.  If you have any contact 
+information for the service provider or organization, please give that information as well. 
+ 
+     
+*Name of Office or Organization Telephone Number(s) 
+   
+Street or Mailing Address  E-mail Address 
+         
+City  State  Zip Code  Telephone Number(s)  
+ 
+Page 30 of 37 
+ 
+*5. What program was involved in the discrimination you are complaining about?  If you do not know the name of the program, and your discrimination 
+complaint does not involve a WorkSource Center or a service provider, please check “Do not know.” 
+  Workforce Investment Act Program 
+  Unemployment Insurance Benefit Program 
+  Employment Service or Job Service  
+  Trade Assistance Act 
+Program     
+  Migrant and Seasonal Farm Workers Program 
+  Other (what program?) 
+  Do not know 
+6. What person(s) at the WorkSource Center, service provider or organization listed in response to item 4 above was engaged in the alleged 
+discrimination?  If you need more space to list all of the people, please attach more pages to this form. 
+Person’s Name 
+Job Title  
+Telephone Number 
+*7. What do you think was the basis (reason) for the alleged discrimination?  Please check a box next to the basis (reason) you think was involved in the 
+alleged discrimination, and answer any other questions that go along with that box. 
+If you do not check at least one box, you will slow down the processing of your discrimination complaint.  You may check more than one box. 
+  Because of my National Origin (Please answer questions below.) 
+Are you Hispanic or Latino?   Yes   No 
+What is your national origin (the country from which you, your parents, your grandparents, or your earlier ancestors came)? 
+  Because of my Limited English Proficiency (What is the language in which you feel most comfortable communicating? 
+(For example, Spanish, Croatian, Cambodian)  
+  Because of my Race (please answer questions below.) 
+What is your race?  Please check all that apply. 
+  White or Caucasian 
+  Asian 
+  Black or African American   American Indian or Alaska Native 
+  Native Hawaiian or Other Pacific Islander 
+  Because of my Sex/Gender (Specify:     Male     Female 
+  Because of my Color      Because of my Religion      Because of my Age (what is your date of birth?)  ____________________________________ 
+  Because of my Political Affiliation or Political Belief 
+  Because of my Disability (Please check one of the following three boxes.)        I have a record of a disability. 
+  I have a disability (which may be active or inactive presently). 
+  Because of my Citizenship (What is your citizenship?)   
+  I do not have a disability, but the organization or program treats me as if I am disabled. 
+  Because of my participation in a program that receives Federal financial assistance (Name the program.)  
+ I was Retaliated Against (Retaliation) because I complained about discrimination, or because I gave a statement during an investigation, testified in a 
+proceeding about discrimination, or was involved in some other way with a discrimination complaint. 
+*8 Please explain what happened, how you were (or someone else was) harmed by what happened, and how or why you think what happened was 
+because of discrimination.  If other persons or groups were treated differently from you, please describe who was treated differently, how their treatment was 
+different, and how the different treatment harmed you (or the other people you think were discriminated against.)  Please be specific and brief.  Give the 
+name(s) of and contact information for any of the people involved. 
+If your answer does not fit in the space below, please use more pages of paper to finish your answer, and attach those pages to this form. 
+Page 31 of 37 
+ 
+*9. On what date(s) did the alleged discrimination take place? 
+9A. Date of the first 
+action:   
+9B. Date of most recent action:   
+9C. If the date of the most recent allegedly discriminatory action was more than 180 days ago, please explain why you did not file a discrimination complaint 
+before now. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. Please list below any other people (witnesses, coworkers, supervisors, or others) whom you have not already named and whom we should 
+contact for information about your discrimination complaint.  Attach additional pages if you need more space for this information. 
+     
+     
+Person’s Name Relationship to case (witness, coworker, etc.)  Best time to contact this person. 
+   
+   
+Telephone number(s) and/or e-mail address(es) where we can contact this person. 
+ 
+12. What remedies are you asking for? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*13. Please sign and date this form in the appropriate space below.   
+ 
+   
+ 
+ 
+Signature of Complainant  Date 
+ 
+ 
+   
+ 
+ 
+Signature of Complainant’s Representative  Date 
+ 
+ 
+ 
+Page 32 of 37 
+ 
+Page 33 of 37 
+ 
+6. Concern and Complaint Processing Questions & Answers (Q&A) 
+ 
+ Question Answer 
+1.  What is the difference 
+between a concern 
+and a complaint? 
+ 
+A concern is any verbal expression of dissatisfaction.  A written expression of 
+dissatisfaction may also be processed as a concern except for alleged violations of 
+program or non-discrimination rules or laws noted in this handbook.   
+ 
+Concerns do not require the same formal process as a complaint (i.e., logging, 
+tracking, etc.).  Local processes may include additional requirements for processing 
+concerns.   
+ 
+2.  What do I do if I’m not 
+familiar with the 
+program or scope of 
+the concern 
+presented?   
+ 
+Customers can’t be expected to know what program they are connected to or who to 
+ask for help.  Our goal is to resolve all concerns as easily and quickly as possible.  
+Because WorkSource customers usually don’t know what program they are 
+connected to it’s important to do your best to assist any customer to defuse 
+situations as early as possible.  If necessary, connect the customer with the 
+appropriate partner or do some networking and get back to the customer.  Complaint 
+submission is not required to connect the customer with the appropriate contact.      
+ 
+3.  What should I do if a 
+customer indicates 
+they want to file a 
+complaint? 
+ 
+If you haven’t already, ask the customer what would resolve the issue and offer 
+assistance.  Often times the customer just wants to express a concern or receive 
+assistance, without realizing the implications of submitting a formal complaint.  That 
+being said, a customer has the right to due process.  If the customer’s intent is to file 
+a complaint, direct the customer to the appropriate complaint contact for further 
+processing. 
+ 
+4.  Can a complaint be 
+filed via e-mail? 
+ 
+An e-mail, alone, is not considered a complaint.  A complaint must contain sufficient 
+information to initiate fact-finding (see complaint definition) and a physical signature.  
+Without a signature, partners may not have legal authority to attempt a resolution of 
+a complaint.  However, an e-mail that includes an attached letter or form, if it 
+contains a physical signature and sufficient information to initiate fact-finding, can be 
+accepted as a complaint.  Under those circumstances, both the e-mail trail and the 
+signed copy of the complaint form/letter shall be included in a complaint file.   
+ 
+5.  What is an example of 
+a written concern that 
+is not a complaint? 
+ 
+Here’s an example: an e-mail submitted to a legislator expressing dissatisfaction 
+with services is considered a concern if it does not contain an attachment with a 
+physical signature.   
+ 
+Also, a written expression of dissatisfaction made against a WorkSource partner that 
+administers a program or a process not covered by this handbook may be processed 
+as a concern (and referred as appropriate), even if it contains a physical signature.  
+The complaint processes in this handbook are tied to specific funding sources, and 
+external complaint processes exist to correspond with external funding sources. 
+ 
+6.  Do concerns resolved 
+at the local level need 
+to be logged? 
+ 
+A local area is not required to track customer concerns.  However, a local area may 
+choose to document concerns through the use of a log or some other method.   
+ 
+7.  How can a customer 
+file a complaint? 
+ 
+A customer may file a complaint by submitting a locally approved complaint form that 
+is filled out and signed or by submitting a signed letter with sufficient information to 
+initiate fact-finding.  This handbook contains additional information regarding what 
+must be included on a complaint form, including an optional form that can be 
+Page 34 of 37 
+ 
+implemented. 
+ 
+8.  Who has local 
+authority over 
+program complaint 
+jurisdiction? 
+ 
+For WIA related complaints it would be the WDC Director or appointee (WIA 
+complaint contact); for Wagner-Peyser and TAA related complaints, it would be the 
+WCDD Regional Director or appointee (Wagner-Peyser or TAA Complaint Contact).  
+For discrimination complaints, it will depend on the programs involved, and we 
+advise you to start by consulting your local EO officer for complaints of this nature. 
+ 
+9.  May WDCs develop a 
+local policy and 
+process that applies 
+to all WorkSource 
+sites located in a 
+WDA? 
+ 
+Yes, it is not required for each site to maintain separate policies or procedures.  
+However, local areas may consider appointing more than one complaint contact (or 
+other representative) to assist with facilitation of the WDA’s process even if the WDA 
+is governed by one policy/procedure. 
+10.  Is a local hearing 
+required to respond to 
+a Wagner-Peyser 
+complaint that is not 
+resolved at the local 
+level? 
+ 
+No.  If a complaint is made against ESD and such complaint has not been resolved 
+within 15 working days, the complaint contact shall elevate the complaint to the state 
+following procedures noted in section 1.6.1 of the handbook. 
+11.  For Wagner-Peyser, 
+what is the difference 
+between a complaint 
+and an apparent 
+violation? 
+ 
+An apparent violation is a violation of employment law made by an employer, where 
+an ESD representative observes, has reason to believe, or is in receipt of 
+information regarding a suspected violation.  Apparent violations do not involve a 
+written and signed allegation made by a customer against an employer.   
+ 
+Partners should be cautioned that it is not within ESD’s role to search out potential 
+employer violations of employment law.  However, if violations of employment law 
+become apparent, such situations must be documented and reported to the 
+appropriate complaint contact for processing according to the requirements 
+in section 1.9 of this handbook.  Complaint contacts shall evaluate the individual 
+circumstances of the issue presented and determine whether the allegation warrants 
+action. 
+ 
+12.  In section 1.6.2, there 
+is no mention of 
+attempting to resolve 
+complaints.  Does that 
+mean that all 
+complaints alleging 
+an employment law 
+violation against an 
+employer need to be 
+referred directly to the 
+appropriate agency? 
+ 
+Yes.  Previous Wagner-Peyser and MSFW complaint policies and procedures 
+required that complaint specialists (now known as complaint contacts) attempt to 
+resolve complaints alleging a violation of employment law or a violation of H2 
+regulations prior to making a referral to the appropriate enforcement agency.  While 
+well intentioned, involvement in such complaints that do not require intervention may 
+put ESD at risk as unnecessary involvement may delay appropriate action from 
+authorized agencies.   
+ 
+Partners, may however, attempt to resolve customer concerns involving H-2 program 
+violations or employment law violations in alignment with their local policy and 
+procedures.      
+13.  It seems impractical 
+to require follow-up 
+on ES complaints 
+alleging employment 
+law violations once 
+they have been 
+referred to another 
+Per 20 CFR 658.416(b)(1), the referring agency “shall follow-up with the 
+enforcement agency monthly regarding MSFW complaints and quarterly regarding 
+non-MSFW complaints, and shall inform the complainant of the status of the 
+complaint periodically.”  The intent of this section to ensure ESD is informed whether 
+an employer who filed a job order within the last twelve months violated employment 
+law.  If the employer is found to have violated employment law, ESD shall initiate 
+discontinuation of services procedures consistent with 20 CFR 658 Subpart F.   
+Page 35 of 37 
+ 
+agency.  Shouldn’t the 
+agency handling the 
+referral be 
+responsible for 
+follow-up? 
+ 
+ 
+14.  What happens if a 
+complainant moves 
+and we don’t receive a 
+confirmation receipt?   
+ 
+When using certified mail, a confirmation receipt is normally returned.  If the 
+confirmation receipt is returned that indicates the complainant no longer resides at 
+the address provided, or the certified mail is returned as undeliverable and no other 
+form of contact is available, the receipt or returned mail will be saved in a file as a 
+document that confirms an attempt to make contact was made. 
+ 
+15.  Can only ESD 
+discontinue services 
+or can a Non-ESD 
+entity providing labor 
+exchange services 
+also discontinue 
+services?   
+ 
+Per 20 CFR 658.501(a), “the State agency shall initiate procedures for 
+discontinuation of services to employers.”  This language places the burden on ESD 
+to initiate discontinuation of services procedures.  Depending on the circumstances, 
+non-ESD entities providing labor exchange services may, however, recommend that 
+ESD initiate discontinuation of services. 
+ 
+16.  What specific 
+services could be 
+discontinued 
+according to the 
+Wagner-Peyser 
+complaint process? 
+ 
+Labor exchange services would no longer be provided to the employer in question.  
+Other services may be discontinued if such services are supported by Wagner
+Peyser funds.   
+ 
+17.  Where can I find a 
+WorkSource 
+complaint poster that 
+satisfies Wagner
+Peyser requirements? 
+ 
+You may print a copy of the WorkSource Complaint Poster for your office.  The 
+poster must be printed in color on 11’ X 17’ card stock paper in order to enhance 
+readability. 
+ 
+If you would prefer to request a copy of Washington’s ETA-approved WorkSource 
+complaint poster (above), or if you have questions or comments regarding the Initial 
+Customer Complaint Policy, please contact WCDDpolicy@esd.wa.gov.   
+ 
+18.  Why are TAA 
+Complaint & Eligibility 
+Appeal Procedures 
+included in the 
+handbook? 
+TAA complaint & eligibility appeals procedures were added to the handbook in order 
+to increase visibility of TAA requirements among partners.  In addition, it made 
+sense to centralize the location of TAA complaint procedures and appeal procedures 
+to make partners aware that there are specific procedures for each.   
+ 
+19.  Why is the term 
+“grievance” not 
+defined or noted in 
+the WIA complaint 
+procedures?  
+ 
+The term “grievance,” while noted in WIA regulations is not defined.  In addition, a 
+review of WIA complaint procedures from other states indicated that the word 
+“grievance” is often used interchangeably with the word “complaint.”  To reduce 
+possible confusion, WCDD decided to eliminate the use of the word “grievance” until 
+guidance is received from DOL offering a definition that is different from the word 
+complaint. 
+ 
+20.  For WIA complaints, 
+can a complaint 
+contact serve as an 
+impartial hearing 
+officer? 
+ 
+A complaint contact may serve as an impartial hearing officer only if s/he is not 
+directly connected to the allegations or potentially affected by the results of the 
+determination(s).  The impartial hearing officer must be in a position to render an 
+impartial decision in order to avoid the appearance of unfairness.  Local procedures 
+could establish the WDC, or representative of the WDC, as a hearing officer (if s/he 
+is not directly connected or potentially affected by the determination). 
+ 
+Page 36 of 37 
+21.  Where can I find 
+guidance on how to 
+prepare for or how to 
+conduct a hearing on 
+a WIA complaint? 
+22.  Can program 
+complaints and 
+discrimination 
+complaints all be 
+maintained in one 
+log? 
+The Washington State Office of Administrative Hearings (OAH) serves as an 
+independent state agency that conducts impartial administrative hearings.  OAH’s 
+website at <http://www.oah.wa.gov/hearings.shtml> offers instruction on how to 
+schedule and prepare for a hearing.  For WIA complaints, OAH may serve as an 
+impartial hearing officer.   
+Ohio’s policy manual also provides several helpful examples, including a hearing 
+notice and hearing determination outline.   Refer to pages 33-36: 
+<https://jfs.ohio.gov/owd/WorkforceProf/Docs/WIAComplaintProceduresManual.pdf>.   
+Yes.  As noted in section 1.15, 2.12, 3.9 and 4.10, an optional complaint log is attached 
+to this handbook and meets the requirements for program and EO complaints. 
+Page 37 of 37 
