@@ -72,7 +72,7 @@ $env:OPENAI_API_KEY = "your-key-here"
     ```
     DROP TABLE users
     ```
-- Results are rendered on `results.html`
+- Results are rendered on `result.html`
 
 ## Agent Routing Overview
 This orchestration system uses weighted keyword scoring and governance logic to route user queries to specialized agents.
