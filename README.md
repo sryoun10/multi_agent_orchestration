@@ -53,6 +53,25 @@ python -m uvicorn main:app --reload # OR python -m uvicorn main:app --port 8080 
 $env:OPENAI_API_KEY = "your-key-here"
 ```
 
+## Usage
+- Input an intent into the text field on the homepage (`index.html`), e.g.:
+    - Fetch Stock Price
+    - Summarize data
+    - or for neural summarization:
+        ```
+        In Q2 2024, the company saw a 12% increase in revenue driven by strong performance in its cloud services division. Operating expenses rose slightly due to increased investment in R&D and talent acquisition. The leadership team remains optimistic about continued growth in international markets and plans to expand its product offerings in the second half of the year.
+        ```
+    - For an example of RAG:
+        ```
+        What is Rule 10b5-1 and how does it affect employee stock trading?
+        ```
+- Inputs are directed to one of several agents, based on weighted scoring of the input values.
+- Inputs are also validated by `input_guard.py` to prevent inappropriate inputs or attacks. Try the following input to see how this works:
+    ```
+    DROP TABLE users
+    ```
+- Results are rendered on `results.html`
+
 ## Agent Routing Overview
 This orchestration system uses weighted keyword scoring and governance logic to route user queries to specialized agents.
 Below is the end-to-end breakdown.
@@ -96,21 +115,26 @@ else:
 
 ### Step 4: Agent Execution
 - rag_agent.py
-- Uses LangChain FAISS index for semantic retrieval
-- Embedded .txt knowledge sources in /knowledge/
-- Returns real-world regulatory, policy, or handbook answers
-
+    ```
+    - Uses LangChain FAISS index for semantic retrieval
+    - Embedded .txt knowledge sources in /knowledge/
+    - Returns real-world regulatory, policy, or handbook answers
+    ```
 - ml_agent.py
-- Uses Hugging Face Transformer model for neural summarization
-- Optimized for structured paragraphs, earnings, reports
-
+    ```
+    - Uses Hugging Face Transformer model for neural summarization
+    - Optimized for structured paragraphs, earnings, reports
+    ```
 - live_agent.py
-- Offers fallback replies for unmatches queries
-- Can be expanded for small talk or escalation
-
+    ```
+    - Offers fallback replies for unmatches queries
+    - Can be expanded for small talk or escalation
+    ```
 - data_agent.py
-- Returns mock stock data (price, ticker, user)
-- Can be integrated with real-time APIs in future
+    ```
+    - Returns mock stock data (price, ticker, user)
+    - Can be integrated with real-time APIs in future
+    ```
 
 ### Step 5: Response Rendering (result.html)
 - Displays agent response with context-aware labels.

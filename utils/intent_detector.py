@@ -1,8 +1,11 @@
 # utils/intent_detector.py
-import re
 
 def infer_intent(text: str) -> str:
     lowered = text.lower()
+    if "onboard" in lowered or "onboarding" in lowered or "start user flow" in lowered:
+        print("Override triggered: onboard_user")
+        return "onboard_user"
+
     scores = {
         "rag_query": 0,
         "ml_summarize": 0,

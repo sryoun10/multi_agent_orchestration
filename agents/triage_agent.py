@@ -1,3 +1,4 @@
+# agents/triage_agent.py
 from logging_config import logger
 
 async def route_request(intent: str) -> str:
@@ -14,5 +15,7 @@ async def route_request(intent: str) -> str:
         return "input_guard"
     elif intent == "escalate":
         return "input_guard"
+    elif intent == "onboard_user":
+        return "onboard_user"
     else:
         return "live_agent"
