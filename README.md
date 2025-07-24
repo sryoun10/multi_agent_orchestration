@@ -15,6 +15,7 @@ Designed for compliance-first automation and architectural clarity.
 - Token-aware RAG logic, graceful error handling, and logging throughout
 
 ## File Structure
+```
 multi_agent_orchestration/
 ├── main.py # FastAPI app and orchestration logic
 ├── input_guard.py # Input validation and escalation
@@ -38,6 +39,7 @@ multi_agent_orchestration/
 ├── logging_config.py # Logging setup
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies for project
+```
 
 ## Setup Instructions
 1. Clone the repo
@@ -86,11 +88,13 @@ Below is the end-to-end breakdown.
 
 ### Step 2: Intent Detection (intent_detector.py)
 - Scoring logic assigns weights based on keyword matches:
+```
 | Intent | Sample Keywords | 
 | rag_query | "sec", "compliance", "policy", "handbook", "10b5-1" | 
 | ml_summarize | "analyze", "growth", "revenue", "forecast", "earnings" | 
 | summarize | "summary", "summarize", "overview", "explain this" | 
 | get_data | "stock", "price", "fetch", "ticker" | 
+```
 
 - Highest scoring intent is selected. If no clear match → routes to live_agent
 
