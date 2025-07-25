@@ -5,14 +5,14 @@ Features retrieval-augmented generation (RAG), neural summarization, input valid
 Designed for compliance-first automation and architectural clarity.
 
 ## Features
-- Intent scoring and routing via `triage_agent.py`
+- Intent scoring via `intent_detector.py` and routing via `triage_agent.py`
 - Retrieval-Augmented Generation (`rag_agent.py`) using LangChain + FAISS
 - Structured summarization via Hugging Face Transformers (`ml_agent.py`)
 - Fallback handling through `live_agent.py`
 - Stock data stub agent (`data_agent.py`)
-- Input validation + logging via `input_guard.py`
+- Input validation via `input_guard.py` + logging throughout
 - Jinja2-based UI with templated response formatting
-- Token-aware RAG logic, graceful error handling, and logging throughout
+- Token-aware RAG logic and graceful error handling
 
 ## File Structure
 ```
